@@ -3,7 +3,7 @@
   "name": "Cowboy Bebop Theme",
   "theme": {
     "images" : {
-      "theme_frame" : "images/tabs-bg.png",
+      "theme_frame" : "images/gnu_top.png",
       "theme_toolbar" : "images/tabs-current.png",
       "theme_ntp_background" : "images/gnu2.png",
       "theme_tab_background" : "images/tabs-inactive.png"
